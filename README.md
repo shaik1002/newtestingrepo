@@ -1,6 +1,7 @@
 
 # just checking the changes
 # Gradle & Docker Pipeline (TeamCity Samples)
+25/11/2024 checking
 letsee the today changes22-11-24
 This is a sample Java project for TeamCity.
 
