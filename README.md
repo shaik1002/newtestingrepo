@@ -1,7 +1,7 @@
 
 # just checking the changes
 # Gradle & Docker Pipeline (TeamCity Samples)
-letsee the today changes22-11-24
+see the mirroring commits 26
 This is a sample Java project for TeamCity.
 
 Tutorials that use this project:
